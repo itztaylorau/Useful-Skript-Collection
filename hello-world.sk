@@ -1,0 +1,4 @@
+#hellow-world.sk
+#By itztaylorau and licensed by MIT License.
+On load:
+ send "Hello World!" to console
